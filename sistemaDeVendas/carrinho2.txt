@@ -1,0 +1,5 @@
+Item:		Nome:		Preço:		Quantidade:		SubTotal:
+1		Notebook		2000.0		2		4000.0
+2		Calça Jeans		99.9		2		199.8
+
+Total: R$4199,80

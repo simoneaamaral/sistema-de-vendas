@@ -1,0 +1,6 @@
+Item:		Nome:		Preço:		Quantidade:		SubTotal:
+1		TV		1200.0		2		2400.0
+2		Blusa		89.9		2		179.8
+3		Arroz		35.5		6		213.0
+
+Total: R$2792,80
